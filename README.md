@@ -9,3 +9,5 @@ Sample website with plenty of files for demos
 git made changes
 
 Automatic merges
+
+Rebasing 
