@@ -10,4 +10,4 @@ git made changes
 
 Automatic merges
 
-Rebasing 
+Rebasing and changes from feature branch
