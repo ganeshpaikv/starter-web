@@ -11,3 +11,5 @@ git made changes
 Automatic merges
 
 Rebasing and changes from feature branch
+
+stash
