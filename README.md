@@ -13,3 +13,4 @@ Automatic merges
 Rebasing and changes from feature branch
 
 stash
+stash untracked
